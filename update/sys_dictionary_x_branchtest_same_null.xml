@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_branchtest_something">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_branchtest_same">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -35,7 +35,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_branchtest_something</name>
+        <name>x_branchtest_same</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>anjana</sys_created_by>
-        <sys_created_on>2019-08-13 18:23:55</sys_created_on>
-        <sys_id>efd7997053533300cf70ddeeff7b1262</sys_id>
+        <sys_created_on>2019-08-13 18:31:02</sys_created_on>
+        <sys_id>ecf7d5b053533300cf70ddeeff7b126e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_branchtest_something</sys_name>
+        <sys_name>x_branchtest_same</sys_name>
         <sys_package display_value="branchtest" source="x_branchtest">83e591fc53133300cf70ddeeff7b12a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="branchtest">83e591fc53133300cf70ddeeff7b12a7</sys_scope>
-        <sys_update_name>sys_dictionary_x_branchtest_something_NULL</sys_update_name>
+        <sys_update_name>sys_dictionary_x_branchtest_same_null</sys_update_name>
         <sys_updated_by>anjana</sys_updated_by>
-        <sys_updated_on>2019-08-13 18:30:43</sys_updated_on>
+        <sys_updated_on>2019-08-13 18:31:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

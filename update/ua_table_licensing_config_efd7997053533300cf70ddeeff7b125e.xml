@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_branchtest_something</name>
+        <name>x_branchtest_like</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>anjana</sys_created_by>
-        <sys_created_on>2019-08-13 18:23:55</sys_created_on>
-        <sys_id>cc565dfc53133300cf70ddeeff7b12b8</sys_id>
+        <sys_created_on>2019-08-13 18:22:52</sys_created_on>
+        <sys_id>efd7997053533300cf70ddeeff7b125e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_branchtest_something</sys_name>
+        <sys_name>x_branchtest_like</sys_name>
         <sys_package display_value="branchtest" source="x_branchtest">83e591fc53133300cf70ddeeff7b12a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="branchtest">83e591fc53133300cf70ddeeff7b12a7</sys_scope>
-        <sys_update_name>ua_table_licensing_config_cc565dfc53133300cf70ddeeff7b12b8</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_efd7997053533300cf70ddeeff7b125e</sys_update_name>
         <sys_updated_by>anjana</sys_updated_by>
-        <sys_updated_on>2019-08-13 18:23:55</sys_updated_on>
+        <sys_updated_on>2019-08-13 18:22:52</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
