@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="like" language="en" table="x_branchtest_like">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>like</label>
+            <language>en</language>
+            <name>x_branchtest_like</name>
+            <plural>likes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>anjana</sys_created_by>
+            <sys_created_on>2019-08-13 18:22:51</sys_created_on>
+            <sys_id>e41619fc53133300cf70ddeeff7b120b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>like</sys_name>
+            <sys_package display_value="branchtest" source="x_branchtest">83e591fc53133300cf70ddeeff7b12a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="branchtest">83e591fc53133300cf70ddeeff7b12a7</sys_scope>
+            <sys_update_name>sys_documentation_x_branchtest_like__en</sys_update_name>
+            <sys_updated_by>anjana</sys_updated_by>
+            <sys_updated_on>2019-08-13 18:22:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
